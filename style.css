@@ -1,33 +1,7 @@
-<<<<<<< HEAD
-header {
-
-}
-
-body {
-    color: white;
-    background-color: black;
-    font-family: 'Raleway', sans-serif;
-  }
-
-  p {
-
-  }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-  #story {
-    background-color: rebeccapurple;
-=======
   body {
     color: white;
     background-color: #333;
     font-size: 150%;
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
->>>>>>> dcc941778988410ca6f61482c803a74adc1e9211
   }
