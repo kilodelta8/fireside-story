@@ -1,5 +1,17 @@
+header {
+
+}
+
 body {
     color: white;
     background-color: black;
     font-family: 'Raleway', sans-serif;
+  }
+
+  p {
+
+  }
+
+  #story {
+    background-color: rebeccapurple;
   }
