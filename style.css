@@ -28,4 +28,9 @@ body {
   #story {
     background-color: darkslategrey;
   }
+
+  #foot {
+    font-size: 12px;
+    color: black;
+  }
  
