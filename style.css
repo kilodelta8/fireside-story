@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
 
 }
@@ -14,4 +15,12 @@ body {
 
   #story {
     background-color: rebeccapurple;
+=======
+  body {
+    color: white;
+    background-color: #333;
+    font-size: 150%;
+    font-family: 'Satisfy', cursive;
+    margin: 5em 25%;
+>>>>>>> dcc941778988410ca6f61482c803a74adc1e9211
   }
