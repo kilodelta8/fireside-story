@@ -2,6 +2,10 @@ header {
 
 }
 
+h3 {
+  color: goldenrod;
+}
+
 body {
     color: white;
     background-color: #333;
@@ -22,5 +26,6 @@ body {
   }
 
   #story {
-    background-color: rebeccapurple;
+    background-color: darkslategrey;
+  }
  
